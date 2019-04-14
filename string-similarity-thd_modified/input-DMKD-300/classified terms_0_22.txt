@@ -1,0 +1,21 @@
+fuzzy match;59.583332
+temporal structure;52.25
+calendar schema;49.833332
+fuzzy interval;37.727272
+crisp intervals;36
+point-interval relation;24.799999
+interval;24.75
+temporal notion (TemporalElement);23.692307
+linear order;22
+non-convex interval;22
+interval-interval relation;21
+periodic temporal notion (PeriodicTemporalElement);20.689476
+collapsed temporal structure;19.01955
+contextual attribute (TemporalContextProperty);18.0
+temporal property;18.0
+periodical granularity;17.833334
+calendar system;16.5
+articulation point;16
+infinite sequence;15
+temporal type;15
+temporal interval;14.833333

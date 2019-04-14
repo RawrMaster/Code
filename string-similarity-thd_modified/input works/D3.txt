@@ -1,0 +1,23 @@
+temporal reasoning;50.0
+temporal;41.0
+temporal reasoning algorithm;28.529325012980813
+temporal queries;11.60964047443681
+temporal constraints;10.0
+temporal networks;6.0
+temporal relationships;6.0
+temporal logic;2.0
+temporal functions;2.0
+temporal world;0.0
+time;177.5
+linear time;38.0
+time intervals;18.0
+time complexity;18.0
+time line;14.0
+time point;12.0
+discrete time;12.0
+time axis;8.0
+life time;6.0
+certain time;6.0
+time slice;
+2.0
+hedgehog;30.0

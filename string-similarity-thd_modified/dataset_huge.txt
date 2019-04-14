@@ -1,0 +1,76 @@
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1107179    1.364    0.000    3.193    0.000 jaro.py:23(transpositions)
+  1107179    1.396    0.000    1.396    0.000 jaro.py:25(<listcomp>)
+  2597576   98.065    0.000  151.317    0.000 jaro.py:27(build_matching_characte
+rs)
+  1298788    4.119    0.000  159.734    0.000 jaro.py:7(score)
+  1298788    0.893    0.000    1.061    0.000 models.py:15(__init__)
+  3822398    0.445    0.000    0.445    0.000 terms.py:41(<genexpr>)
+107126538    6.784    0.000    6.784    0.000 {built-in method builtins.len}
+ 87877490   18.387    0.000   18.387    0.000 {built-in method builtins.max}
+ 90475066   17.390    0.000   17.390    0.000 {built-in method builtins.min}
+  1298788    0.809    0.000    1.254    0.000 {built-in method builtins.sum}
+  3704755    1.099    0.000    1.099    0.000 {built-in method math.floor}
+ 23282879    1.947    0.000    1.947    0.000 {method 'append' of 'list' objects
+}
+     1312    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Prof
+iler' objects}
+ 46562344    8.330    0.000    8.330    0.000 {method 'index' of 'str' objects}
+  2597576    0.567    0.000    0.567    0.000 {method 'join' of 'str' objects}
+  2597576    0.395    0.000    0.395    0.000 {method 'lower' of 'str' objects}
+     3019    0.004    0.000    0.004    0.000 {method 'pop' of 'list' objects}
+  1298788    0.169    0.000    0.169    0.000 {method 'strip' of 'str' objects}
+
+
+         378061495 function calls in 162.163 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1107200    1.364    0.000    3.193    0.000 jaro.py:23(transpositions)
+  1107200    1.396    0.000    1.396    0.000 jaro.py:25(<listcomp>)
+  2597648   98.066    0.000  151.318    0.000 jaro.py:27(build_matching_characte
+rs)
+  1298824    4.119    0.000  159.735    0.000 jaro.py:7(score)
+  1298824    0.893    0.000    1.061    0.000 models.py:15(__init__)
+  3822470    0.445    0.000    0.445    0.000 terms.py:41(<genexpr>)
+107127659    6.784    0.000    6.784    0.000 {built-in method builtins.len}
+ 87878146   18.387    0.000   18.387    0.000 {built-in method builtins.max}
+ 90475794   17.391    0.000   17.391    0.000 {built-in method builtins.min}
+  1298824    0.809    0.000    1.254    0.000 {built-in method builtins.sum}
+  3704848    1.099    0.000    1.099    0.000 {built-in method math.floor}
+ 23283001    1.947    0.000    1.947    0.000 {method 'append' of 'list' objects
+}
+     1321    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Prof
+iler' objects}
+ 46562588    8.330    0.000    8.330    0.000 {method 'index' of 'str' objects}
+  2597648    0.567    0.000    0.567    0.000 {method 'join' of 'str' objects}
+  2597648    0.395    0.000    0.395    0.000 {method 'lower' of 'str' objects}
+     3028    0.004    0.000    0.004    0.000 {method 'pop' of 'list' objects}
+  1298824    0.169    0.000    0.169    0.000 {method 'strip' of 'str' objects}
+
+
+
+**************************************************
+File: D3.txt
+
+Terms:
+- TOTAL: 114061
+- MORE THAN 1: 32419
+- MORE THAN EPS: 3028
+
+Info:
+- EPS: 21.5
+- NORM: 51.39384202603255
+- CONVERGENCE: 0.8
+- GROUPS: 1320
+- THD: 51.39384202603255
+- THDR: 100.0
+
+Time (seconds):
+- GROUPS: 168.98566508293152
+- THD: 0.0
+- THDR: 0.0
+**************************************************
+
+E:\4_year\Diplom\string-similarity-thd>

@@ -1,0 +1,26 @@
+initial state;14
+match ratio;14
+temporal extension;14
+infinite interval;12
+temporal aspect;12
+temporal context;11.75
+finite linear order;11.09
+rigid concept;11
+temporal entity;11
+inintersection point;10.66
+basic calendar;10
+required delay;10
+non-empty granule;9.5
+distance function (TemporalDistanceFunction);9.25
+temporal distance;8.8
+fuzzy point-interval relation;8.50
+middle point (MiddleTimePoint);8
+precedence relation(TemporalPrecedenceRelation);8
+above-neighbor relation;7
+satisfaction relation;7
+fuzzy interval-interval relation;7
+fuzzy match ration;6.33
+temporal entity type;6.33
+temporal relation;6.33
+basic granularity;6
+calendar unit;6
