@@ -19,8 +19,8 @@ class AhoCorasik(Method):
         arr_shorter = shorter.split()
         for idx, key in enumerate(arr_shorter):
             res = A.match(key, 'not exists')
-            summary += int(res) # собираем все баллы
+            summary += int(res)                               # collecting all points
 
-        score = summary / len(arr_shorter) # находим среднее
+        score = summary / len(arr_shorter)                    # calculating average value
         return score
 
