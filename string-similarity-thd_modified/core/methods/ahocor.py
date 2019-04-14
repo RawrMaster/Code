@@ -2,10 +2,7 @@ from core.methods.interface import Method
 import ahocorasick
 
 class AhoCorasik(Method):
-    def __init__(self):
-        self.first_tokens = None
-        self.second_tokens = None
-
+    
     def score(self, w1: str, w2: str) -> float:
         shorter, longer = w1.lower(), w2.lower()
 
