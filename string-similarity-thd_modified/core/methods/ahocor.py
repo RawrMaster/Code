@@ -24,15 +24,3 @@ class AhoCorasik(Method):
         score = summary / len(arr_shorter) # находим среднее
         return score
 
-    @property
-    def intersection(self) -> set:
-        return set.intersection(self.first_tokens, self.second_tokens)
-
-    @property
-    def union(self) -> set:
-        return set.union(self.first_tokens, self.second_tokens)
-
-    @staticmethod
-    def _build_tokens(word: str) -> set:
-        return set(word)
-
