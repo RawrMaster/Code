@@ -25,7 +25,6 @@ class AhoCorasik(Method):
             summary += int(res) # собираем все баллы
 
         score = summary / len(arr_shorter) # находим среднее
-     #   print(">>>>score: ", score)
         return score
 
     @property
